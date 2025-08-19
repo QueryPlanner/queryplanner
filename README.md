@@ -4,7 +4,13 @@ I’m 24
 I used to make $2,000/month working full-time for 3 years.  It was comfortable, but I’ll never get rich from it. 
 So, I quit. Now I build full time!  
 
-But now my fluctuates from $175/month to $5/month. Embracing poverty, it’s good!
+But now my income fluctuates from $175/month to $5/month. Embracing poverty, it’s good!
+
+My revenue since I've quit (updated: Aug-2025):
+[Lordsocks](lordsocks.shop): $175
+[ThreadX](https://thread-x-waitlist.vercel.app/): $11
+Backend Consultation and building: $350
+Data science for Physiotherapists: $30
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chirag-patil-1336b3171) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vectorql) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chiragnpatil@gmail.com) 

@@ -1,16 +1,8 @@
 ## About me:
 I’m 24
 
-I used to make $2,000/month working full-time for 3 years.  It was comfortable, but I’ll never get rich from it. 
-So, I quit. Now I build full time!  
-
-But now my income fluctuates from $175/month to $5/month. Embracing poverty, it’s good!
-
-My revenue since I've quit (updated: Aug-2025):
-[Lordsocks](lordsocks.shop): $175
-[ThreadX](https://thread-x-waitlist.vercel.app/): $11
-Backend Consultation and building: $350
-Data science for Physiotherapists: $30
+I've studied RL and Deep Learning and now I use AI to solve problems.
+Everything is a skills issue so I try to read a lot and work a lot.
 
 ## 🌐 Socials:
 [Website](https://lordpatil.com)

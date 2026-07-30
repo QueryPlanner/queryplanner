@@ -20,4 +20,4 @@ this isn’t for you
 ## Building:
 
   - [Spanning](https:/resume.lordpatil.com) 
-  - [Lord Socks](https://lordsocks.shop)
+  - [Lord Socks](https://socks.lordpatil.com)
